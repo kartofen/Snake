@@ -1,0 +1,16 @@
+F:\GitRepos\Console\Snake\Snake\bin\Release\netcoreapp3.1\Snake.exe
+F:\GitRepos\Console\Snake\Snake\bin\Release\netcoreapp3.1\Snake.deps.json
+F:\GitRepos\Console\Snake\Snake\bin\Release\netcoreapp3.1\Snake.runtimeconfig.json
+F:\GitRepos\Console\Snake\Snake\bin\Release\netcoreapp3.1\Snake.runtimeconfig.dev.json
+F:\GitRepos\Console\Snake\Snake\bin\Release\netcoreapp3.1\Snake.dll
+F:\GitRepos\Console\Snake\Snake\bin\Release\netcoreapp3.1\Snake.pdb
+F:\GitRepos\Console\Snake\Snake\bin\Release\netcoreapp3.1\SnakeLib.dll
+F:\GitRepos\Console\Snake\Snake\bin\Release\netcoreapp3.1\SnakeLib.pdb
+F:\GitRepos\Console\Snake\Snake\obj\Release\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+F:\GitRepos\Console\Snake\Snake\obj\Release\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+F:\GitRepos\Console\Snake\Snake\obj\Release\netcoreapp3.1\Snake.AssemblyInfo.cs
+F:\GitRepos\Console\Snake\Snake\obj\Release\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+F:\GitRepos\Console\Snake\Snake\obj\Release\netcoreapp3.1\Snake.csproj.CopyComplete
+F:\GitRepos\Console\Snake\Snake\obj\Release\netcoreapp3.1\Snake.dll
+F:\GitRepos\Console\Snake\Snake\obj\Release\netcoreapp3.1\Snake.pdb
+F:\GitRepos\Console\Snake\Snake\obj\Release\netcoreapp3.1\Snake.genruntimeconfig.cache

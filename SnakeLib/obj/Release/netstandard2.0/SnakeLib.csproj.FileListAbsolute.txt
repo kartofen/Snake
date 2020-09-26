@@ -1,0 +1,9 @@
+F:\GitRepos\Console\Snake\SnakeLib\bin\Release\netstandard2.0\SnakeLib.deps.json
+F:\GitRepos\Console\Snake\SnakeLib\bin\Release\netstandard2.0\SnakeLib.dll
+F:\GitRepos\Console\Snake\SnakeLib\bin\Release\netstandard2.0\SnakeLib.pdb
+F:\GitRepos\Console\Snake\SnakeLib\obj\Release\netstandard2.0\SnakeLib.csprojAssemblyReference.cache
+F:\GitRepos\Console\Snake\SnakeLib\obj\Release\netstandard2.0\SnakeLib.AssemblyInfoInputs.cache
+F:\GitRepos\Console\Snake\SnakeLib\obj\Release\netstandard2.0\SnakeLib.AssemblyInfo.cs
+F:\GitRepos\Console\Snake\SnakeLib\obj\Release\netstandard2.0\SnakeLib.csproj.CoreCompileInputs.cache
+F:\GitRepos\Console\Snake\SnakeLib\obj\Release\netstandard2.0\SnakeLib.dll
+F:\GitRepos\Console\Snake\SnakeLib\obj\Release\netstandard2.0\SnakeLib.pdb
